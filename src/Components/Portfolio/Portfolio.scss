@@ -1,0 +1,17 @@
+.portfolio {
+  text-align: center;
+  background-color: #F6F6F6;
+  &__title {
+    padding: 112px 0 48px 0;
+    font-size: 34px;
+    font-weight: bold;
+  }
+}
+
+.portfolio-item {
+  padding-bottom: 168px;
+  &__name {
+    padding-top: 44px;
+    font-size: 20px;
+  }
+}

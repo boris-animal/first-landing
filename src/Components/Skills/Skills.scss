@@ -1,0 +1,32 @@
+.skills {
+  text-align: center;
+  &__title {
+    padding: 92px 0 72px 0;
+    font-size: 34px;
+    font-weight: bold;
+  }
+  &__about {
+    padding-bottom: 84px;
+  }
+  &__items {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.skills-items__logo {
+  padding-bottom: 24px;
+}
+
+.skills-items__name {
+  padding-bottom: 44px;
+  font-size: 12px;
+  color: #828282;
+}
+
+.skills-items__star {
+  padding-bottom: 112px;
+}
+
+
+
